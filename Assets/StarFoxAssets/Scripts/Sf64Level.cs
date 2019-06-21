@@ -9,6 +9,8 @@ public class Sf64Level : MonoBehaviour
     public GameObject YellowLine;
     public GameObject WarpLine;
 
+    public bool MedelAquired = false;
+
     public enum ExitsType
     {
         Red,
@@ -17,8 +19,26 @@ public class Sf64Level : MonoBehaviour
         BlueRed,
         RedYellow,
         BlueYellow,
-        BlueWarp
+        BlueWarp,
+        BlueYellowWarp
     }
 
     public ExitsType LevelExits = ExitsType.Red;
+
+    public void ShowBlueLine(bool show)
+    {
+        BlueLine.GetComponent<Renderer>().enabled = show;
+    }
+    public void ShowRedLine(bool show)
+    {
+        RedLine.GetComponent<Renderer>().enabled = show;
+    }
+    public void ShowYellowLine(bool show)
+    {
+        YellowLine.GetComponent<Renderer>().enabled = show;
+    }
+    public void ShowWarpLine(bool show)
+    {
+        WarpLine.GetComponent<Renderer>().enabled = show;
+    }
 }
