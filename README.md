@@ -1,0 +1,1 @@
+# StarFox64PathDisplay

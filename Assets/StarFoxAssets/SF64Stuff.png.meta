@@ -1,0 +1,366 @@
+fileFormatVersion: 2
+guid: 4b9317d3234c3214f85df81c84f64ac6
+timeCreated: 1491787408
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SF64Stuff_0
+    21300002: SF64Stuff_1
+    21300004: SF64Stuff_2
+    21300006: SF64Stuff_3
+    21300008: SF64Stuff_4
+    21300010: SF64Stuff_5
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SF64Stuff_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 99
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 49}
+        - {x: -49.5, y: 34}
+        - {x: -49.5, y: -57}
+        - {x: -45.5, y: -59}
+        - {x: 41.5, y: -59}
+        - {x: 47.5, y: -35}
+        - {x: 47.5, y: 34}
+        - {x: 33.5, y: 49}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SF64Stuff_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 140
+        width: 95
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: 54}
+        - {x: -41.5, y: 54}
+        - {x: -47.5, y: 41}
+        - {x: -47.5, y: -46}
+        - {x: -26.5, y: -55}
+        - {x: 25.5, y: -55}
+        - {x: 46.5, y: -27}
+        - {x: 47.5, y: -25}
+        - {x: 47.5, y: 28}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SF64Stuff_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 6
+        width: 145
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: 62}
+        - {x: -58.5, y: 4}
+        - {x: -66.5, y: 6}
+        - {x: -66.5, y: -56}
+        - {x: -64.5, y: -61}
+        - {x: 15.5, y: -61}
+        - {x: 39.5, y: -51}
+        - {x: 41.5, y: -49}
+        - {x: 65.5, y: -33}
+        - {x: 65.5, y: 62}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SF64Stuff_3
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 218
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SF64Stuff_4
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 182
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SF64Stuff_5
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 146
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline:
+    - - {x: 31.5, y: -85}
+      - {x: 31.5, y: -130}
+      - {x: 195.5, y: -130}
+      - {x: 196.5, y: -129}
+      - {x: 196.5, y: -85}
+    - - {x: -349.5, y: -77}
+      - {x: -299.5, y: -125}
+      - {x: -254.5, y: -125}
+      - {x: -223.5, y: -101}
+      - {x: -223.5, y: -37}
+      - {x: -255.5, y: 3}
+      - {x: -292.5, y: 3}
+      - {x: -337.5, y: -26}
+      - {x: -349.5, y: -35}
+    - - {x: -123.5, y: -2}
+      - {x: -188.5, y: -2}
+      - {x: -202.5, y: -8}
+      - {x: -204.5, y: -10}
+      - {x: -204.5, y: -15}
+      - {x: -219.5, y: -59}
+      - {x: -219.5, y: -93}
+      - {x: -196.5, y: -125}
+      - {x: -155.5, y: -125}
+      - {x: -113.5, y: -116}
+      - {x: -87.5, y: -94}
+      - {x: -87.5, y: -40}
+      - {x: -102.5, y: -6}
+    - - {x: -67.5, y: -12}
+      - {x: -69.5, y: -14}
+      - {x: -69.5, y: -80}
+      - {x: 62.5, y: -80}
+      - {x: 62.5, y: -14}
+      - {x: 60.5, y: -12}
+    - - {x: 80.5, y: -14}
+      - {x: 72.5, y: -30}
+      - {x: 72.5, y: -73}
+      - {x: 82.5, y: -80}
+      - {x: 121.5, y: -80}
+      - {x: 138.5, y: -74}
+      - {x: 138.5, y: -27}
+      - {x: 126.5, y: -14}
+    - - {x: 175.5, y: -21}
+      - {x: 175.5, y: -74}
+      - {x: 271.5, y: -74}
+      - {x: 271.5, y: -21}
+      - {x: 269.5, y: -19}
+      - {x: 177.5, y: -19}
+    - - {x: 275.5, y: -22}
+      - {x: 273.5, y: -24}
+      - {x: 273.5, y: -58}
+      - {x: 275.5, y: -60}
+      - {x: 307.5, y: -60}
+      - {x: 309.5, y: -58}
+      - {x: 309.5, y: -24}
+      - {x: 307.5, y: -22}
+    - - {x: 76.5, y: 125}
+      - {x: 57.5, y: 117}
+      - {x: 44.5, y: 109}
+      - {x: 44.5, y: 18}
+      - {x: 51.5, y: 1}
+      - {x: 157.5, y: 1}
+      - {x: 168.5, y: 23}
+      - {x: 168.5, y: 115}
+      - {x: 149.5, y: 125}
+    - - {x: -242.5, y: 118}
+      - {x: -252.5, y: 101}
+      - {x: -252.5, y: 25}
+      - {x: -227.5, y: 9}
+      - {x: -174.5, y: 9}
+      - {x: -155.5, y: 37}
+      - {x: -155.5, y: 117}
+      - {x: -162.5, y: 118}
+    - - {x: -125.5, y: 117}
+      - {x: -152.5, y: 95}
+      - {x: -152.5, y: 18}
+      - {x: -129.5, y: 9}
+      - {x: -78.5, y: 9}
+      - {x: -55.5, y: 30}
+      - {x: -55.5, y: 92}
+      - {x: -66.5, y: 117}
+    - - {x: -334.5, y: 118}
+      - {x: -352.5, y: 87}
+      - {x: -352.5, y: 38}
+      - {x: -350.5, y: 29}
+      - {x: -323.5, y: 10}
+      - {x: -264.5, y: 10}
+      - {x: -255.5, y: 35}
+      - {x: -255.5, y: 100}
+      - {x: -270.5, y: 118}
+    - - {x: -36.5, y: 118}
+      - {x: -52.5, y: 113}
+      - {x: -52.5, y: 28}
+      - {x: -38.5, y: 10}
+      - {x: 32.5, y: 10}
+      - {x: 44.5, y: 28}
+      - {x: 44.5, y: 88}
+      - {x: 32.5, y: 118}
+    - - {x: 174.5, y: 47}
+      - {x: 173.5, y: 46}
+      - {x: 173.5, y: 22}
+      - {x: 176.5, y: 13}
+      - {x: 190.5, y: 13}
+      - {x: 205.5, y: 22}
+      - {x: 207.5, y: 39}
+      - {x: 207.5, y: 47}
+    - - {x: 214.5, y: 46}
+      - {x: 212.5, y: 44}
+      - {x: 212.5, y: 16}
+      - {x: 214.5, y: 14}
+      - {x: 242.5, y: 14}
+      - {x: 244.5, y: 16}
+      - {x: 244.5, y: 44}
+      - {x: 242.5, y: 46}
+    - - {x: 246.5, y: 46}
+      - {x: 244.5, y: 44}
+      - {x: 244.5, y: 16}
+      - {x: 246.5, y: 14}
+      - {x: 274.5, y: 14}
+      - {x: 276.5, y: 16}
+      - {x: 276.5, y: 44}
+      - {x: 274.5, y: 46}
+    - - {x: 278.5, y: 46}
+      - {x: 276.5, y: 44}
+      - {x: 276.5, y: 16}
+      - {x: 278.5, y: 14}
+      - {x: 306.5, y: 14}
+      - {x: 308.5, y: 16}
+      - {x: 308.5, y: 44}
+      - {x: 306.5, y: 46}
+    - - {x: 218.5, y: 86}
+      - {x: 218.5, y: 47}
+      - {x: 238.5, y: 47}
+      - {x: 238.5, y: 86}
+    - - {x: 295.5, y: 117}
+      - {x: 295.5, y: 84}
+      - {x: 261.5, y: 84}
+      - {x: 293.5, y: 84}
+      - {x: 295.5, y: 86}
+      - {x: 295.5, y: 118}
+      - {x: 294.5, y: 121}
+      - {x: 223.5, y: 121}
+      - {x: 215.5, y: 116}
+      - {x: 215.5, y: 67}
+      - {x: 226.5, y: 47}
+      - {x: 330.5, y: 47}
+      - {x: 331.5, y: 69}
+      - {x: 331.5, y: 119}
+      - {x: 296.5, y: 120}
+    - - {x: 207.5, y: 72}
+      - {x: 207.5, y: 79}
+      - {x: 205.5, y: 82}
+      - {x: 199.5, y: 82}
+      - {x: 194.5, y: 81}
+      - {x: 190.5, y: 82}
+      - {x: 175.5, y: 82}
+      - {x: 175.5, y: 49}
+      - {x: 190.5, y: 49}
+      - {x: 202.5, y: 51}
+      - {x: 207.5, y: 55}
+      - {x: 207.5, y: 56}
+      - {x: 204.5, y: 59}
+    - - {x: 343.5, y: 72}
+      - {x: 344.5, y: 72}
+      - {x: 348.5, y: 74}
+      - {x: 351.5, y: 78}
+      - {x: 351.5, y: 118}
+      - {x: 331.5, y: 118}
+      - {x: 331.5, y: 62}
+      - {x: 351.5, y: 62}
+      - {x: 351.5, y: 63}
+      - {x: 350.5, y: 66}
+      - {x: 348.5, y: 70}
+    - - {x: 175.5, y: 118}
+      - {x: 174.5, y: 116}
+      - {x: 174.5, y: 85}
+      - {x: 204.5, y: 85}
+      - {x: 208.5, y: 100}
+      - {x: 208.5, y: 117}
+      - {x: 207.5, y: 118}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
